@@ -135,5 +135,8 @@ Shows visualizations from Call Center Performance Dashboard
 4. **Focus on Streaming and Technical Support**, the topics with the highest volume and the most unresolved calls.
 
 
-LinkedIn: https://www.linkedin.com/in/wwael-suliman?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Wael%20Suliman-0A66C2?logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/wwael-suliman?utm_source=share_via&utm_content=profile&utm_medium=member_android)
