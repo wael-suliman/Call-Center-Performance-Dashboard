@@ -134,3 +134,6 @@ Shows visualizations from Call Center Performance Dashboard
 3. **Investigate the monthly decline** in satisfaction and link it to waiting times.
 4. **Focus on Streaming and Technical Support**, the topics with the highest volume and the most unresolved calls.
 
+
+LinkedIn: https://www.linkedin.com/in/wwael-suliman?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
