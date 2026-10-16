@@ -17,8 +17,7 @@ An interactive Power BI dashboard that analyzes **5,000 customer calls over 3 mo
 - [Key KPIs](#-key-kpis)
 - [Key Insights](#-key-insights)
 - [Recommendations](#-recommendations)
-- [Tools & Skills](#-tools--skills)
-- [Author](#-author)
+
 
 ---
 
